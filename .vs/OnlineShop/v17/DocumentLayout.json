@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158B6B03-7661-43E2-88F9-7101C36D69EC}|Src\\Presentation\\EndPonit.WebAPI\\EndPonit.WebAPI.csproj|c:\\users\\amirh\\onedrive\\desktop\\dotne\\onlineshop\\src\\presentation\\endponit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158B6B03-7661-43E2-88F9-7101C36D69EC}|Src\\Presentation\\EndPonit.WebAPI\\EndPonit.WebAPI.csproj|solutionrelative:src\\presentation\\endponit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241209205454_init.cs",
+              "DocumentMoniker": "C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs",
+              "ToolTip": "C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:54:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\Src\\Presentation\\EndPonit.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\EndPonit.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\Src\\Presentation\\EndPonit.WebAPI\\Program.cs",
+              "RelativeToolTip": "Src\\Presentation\\EndPonit.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:52:29.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
