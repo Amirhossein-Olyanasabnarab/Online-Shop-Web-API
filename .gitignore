@@ -1,0 +1,36 @@
+## Ignore Visual Studio temporary files, build results, and
+## Rider/JetBrains IDE-specific settings
+
+# Rider
+.idea/
+.idea/*
+*.iml
+
+# Build output
+bin/
+obj/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+wwwroot/
+appsettings.json
+appsettings.*.json
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+logs/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
