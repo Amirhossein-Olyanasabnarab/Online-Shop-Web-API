@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amirh\\OneDrive\\Desktop\\DotNe\\OnlineShop\\Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Infrastructure\\OnlineShop.Persistence\\Migrations\\20241209205454_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0906EB89-531C-48B8-B0C0-E88B64514E73}|Src\\Infrastructure\\OnlineShop.Persistence\\OnlineShop.Persistence.csproj|c:\\users\\amirh\\onedrive\\desktop\\dotne\\onlineshop\\src\\infrastructure\\onlineshop.persistence\\migrations\\20241209205454_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906EB89-531C-48B8-B0C0-E88B64514E73}|Src\\Infrastructure\\OnlineShop.Persistence\\OnlineShop.Persistence.csproj|solutionrelative:src\\infrastructure\\onlineshop.persistence\\migrations\\20241209205454_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{158B6B03-7661-43E2-88F9-7101C36D69EC}|Src\\Presentation\\EndPonit.WebAPI\\EndPonit.WebAPI.csproj|c:\\users\\amirh\\onedrive\\desktop\\dotne\\onlineshop\\src\\presentation\\endponit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Src\\Presentation\\EndPonit.WebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:52:29.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:52:29.186Z"
             }
           ]
         }
